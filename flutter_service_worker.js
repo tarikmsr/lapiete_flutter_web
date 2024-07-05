@@ -19,7 +19,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9d95addb9c2ce1fe991c3f5b52287dea
 "assets/assets/images/mobile_login.png": "7c96a71eaf6fa538c1da449aa5152c72",
 "assets/FontManifest.json": "646100e1238ff338f0d522f44ecc2c3f",
 "assets/fonts/MaterialIcons-Regular.otf": "fffa9051836ec55b77376b22aadbb935",
-"assets/NOTICES": "b8e714077ada4565069ba51312449eea",
+"assets/NOTICES": "a5cecccc0f793ba64afcb9a53d473012",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -39,11 +39,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "9d95addb9c2ce1fe991c3f5b52287dea
 "icons/Icon-512.png": "330c54ae711d5e6f7717c829c9476387",
 "icons/Icon-maskable-192.png": "f494ad20fdbee681ffaeaa2762b08aed",
 "icons/Icon-maskable-512.png": "330c54ae711d5e6f7717c829c9476387",
-"index.html": "d3c1c483ee0699048aacdaeccc998176",
-"/": "d3c1c483ee0699048aacdaeccc998176",
-"main.dart.js": "9f99b8f3d25e038c63faf4a12d1ebaf5",
+"index.html": "0de644d4b9c8d9b3ddf040973a466c97",
+"/": "0de644d4b9c8d9b3ddf040973a466c97",
+"main.dart.js": "e0d724209a07f314c9e4375529e88d2e",
 "manifest.json": "72fed26287f1a166117cf95b70a93d9b",
-"version.json": "6657a57bd5b25519855226be5c198118"};
+"version.json": "139eb0923289939017fc3b79a05143b6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
