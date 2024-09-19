@@ -24,4 +24,6 @@ Lapiete is a web and mobile application developed with Flutter to streamline the
 
 # Screens
 
-<img width="1240" alt="image" src="https://github.com/user-attachments/assets/957081bb-2842-41ba-a710-82c88bf20e1d">
+
+<img width="1231" alt="image" src="https://github.com/user-attachments/assets/ab3fad2b-c851-46fa-8644-f612fe9a3657">
+
