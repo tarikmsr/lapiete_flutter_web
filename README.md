@@ -21,3 +21,7 @@ Lapiete is a web and mobile application developed with Flutter to streamline the
 - permission_handler:  For managing device permissions.
 - encrypt: Encrypt data in local storage
 
+
+# Screens
+
+<img width="1240" alt="image" src="https://github.com/user-attachments/assets/957081bb-2842-41ba-a710-82c88bf20e1d">
