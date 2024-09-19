@@ -22,8 +22,22 @@ Lapiete is a web and mobile application developed with Flutter to streamline the
 - encrypt: Encrypt data in local storage
 
 
-# Screens
+## ScreenShots
 
-
+# fill forms
 <img width="1231" alt="image" src="https://github.com/user-attachments/assets/ab3fad2b-c851-46fa-8644-f612fe9a3657">
+
+
+
+# upload files
+
+![image](https://github.com/user-attachments/assets/adf74cc7-dab3-4ed7-a02f-adf591bf6d6c)
+
+
+# generate folders
+<img width="1041" alt="image" src="https://github.com/user-attachments/assets/b246aa88-341d-4fab-b9b0-f670b03437d8">
+
+# example of a generated pdf file
+![image](https://github.com/user-attachments/assets/b40e6f5d-7920-4c1c-be34-85104e017091)
+
 
