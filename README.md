@@ -37,7 +37,11 @@ Lapiete is a web and mobile application developed with Flutter to streamline the
 # generate folders
 <img width="1041" alt="image" src="https://github.com/user-attachments/assets/b246aa88-341d-4fab-b9b0-f670b03437d8">
 
+
 # example of a generated pdf file
 ![image](https://github.com/user-attachments/assets/b40e6f5d-7920-4c1c-be34-85104e017091)
 
+
+# Mobile screen
+![image](https://github.com/user-attachments/assets/4a48006a-f2b0-4ba7-8e28-57871c013444)
 
