@@ -25,4 +25,4 @@ The code is provided "as is", without warranty of any kind, express or implied, 
 
 ## Author Contact
 
-For permission requests or inquiries, please contact the author at [your-email@example.com].
+For permission requests or inquiries, please contact the author at [tarik.elmsaouri@outlook.com].
