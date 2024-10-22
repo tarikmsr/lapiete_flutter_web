@@ -3,7 +3,7 @@
 
 Lapiete is a web and mobile application developed with Flutter to streamline the creation of administrative documents for funerals in French. The app provides functionality for generating documents like death certificates, burial permits, and more, tailored for French administrative processes.
 
-# Version 2.0.24 - September 2024
+# Version 2.0.25 - October 2024
 
 # Features
 
